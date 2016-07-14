@@ -1,7 +1,12 @@
 # MarkovNamer
 A C# library for random word generation using markov chains
 
-Creates a random words that looks like a normal words but have no meaning
+Creates a random words that looks like a normal words but have no meaning like:
+
+* aclygo
+* arthrerque
+* yowielay
+* algrarle
 
 Can be used as an inspiration source or naming thing for something
 
@@ -16,6 +21,12 @@ Console.WriteLine(namer.GenWord(2, random));
 ```
 -
 
-Библиотека для генеации случайных слов, которые выглядят как обычные, но не имеют смысла.
+Библиотека для генеации случайных слов, которые выглядят как обычные, но не имеют смысла. Такие как 
+
+* орлетные
+* авгиета
+* двайна
+* льночка
+
 Реализация идеи https://listserv.brown.edu/archives/cgi-bin/wa?A2=ind0608A&L=CONLANG&P=R1976
 Может быть использована как источник для креативных процессов либо как средство для автоматического названия чего-либо
