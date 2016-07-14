@@ -1,7 +1,7 @@
 # MarkovNamer
 A C# library for random word generation using markov chains
 
-Creates a random words that looks like a normal words but have no meaning like:
+Creates random words that looks like normal words but have no meaning like:
 
 * aclygo
 * arthrerque
